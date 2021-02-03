@@ -1,0 +1,9 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>404 Not Found</title>
+</head><body>
+<h1>Not Found</h1>
+<p>The requested URL /ee/nn_sso/&amp;token=8e76666259fd8b0b941b3cf63b94f5bd_601a6df7_ffffffffffffffff was not found on this server.</p>
+<hr>
+<address>Apache/2.2.15 (CentOS) Server at e-paper.nordbayern.de Port 443</address>
+</body></html>
